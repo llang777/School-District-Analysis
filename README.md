@@ -1,4 +1,4 @@
-# pandas-challenge
+# School Funding and Performance Analysis
 This code runs an in depth analysis on multiple aspects of school funding and performance, taking into account the financial support of schools, school type, and various academic testing scores. Using this, we can see the following:
 1. Multiple factors contribute to student academic success, and academic achievement is not solely dependent on school funding. There are multiple high schools with low student funding amounts that still see high academic test results,
    and ones with high funding amount and low test results. This could be due to a difference in teaching styles, cultures, and student interest/engagment.
