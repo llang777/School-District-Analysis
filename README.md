@@ -8,5 +8,3 @@ This code runs an in depth analysis on multiple aspects of school funding and pe
 
 Overall, we can see multiple influences on the outcome of student testing scores, however more data across various categories would help create a more conclusive picture. The inclusion of cultural aspects, teaching methods, 
 student to teacher ratio, parental support, student happiness, and peer support systems could help create a clearer picture into the various factors influencing student academic success.
-
-This code contains the orignal starter code in some sections that was present in the notebook we were instructed to use for our project.
